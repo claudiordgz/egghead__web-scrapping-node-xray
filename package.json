@@ -1,0 +1,12 @@
+{
+  "name": "egghead__web-scrapping-node-xray",
+  "version": "1.0.0",
+  "description": "Scrapping examples",
+  "main": "index.js",
+  "repository": "https://claudiordgz.github.io/egghead-web-scrapping-node-xray",
+  "author": "claudiordgz",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.2"
+  }
+}
