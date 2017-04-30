@@ -113,3 +113,4 @@ typings/
 
 results.json
 *.swp
+config/env
