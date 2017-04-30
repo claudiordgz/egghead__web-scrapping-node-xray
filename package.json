@@ -7,6 +7,12 @@
   "author": "claudiordgz",
   "license": "MIT",
   "dependencies": {
-    "x-ray": "^2.3.2"
+    "standard": "^10.0.2",
+    "winston": "^2.3.1",
+    "x-ray": "^2.3.2",
+    "magnet-link": "^1.1.1"
+  },
+  "scripts": {
+    "build": "standard --fix && node index.js"
   }
 }
