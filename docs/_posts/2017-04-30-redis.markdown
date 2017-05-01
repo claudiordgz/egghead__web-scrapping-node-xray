@@ -3,11 +3,6 @@ published: true
 title: Caching
 ---
 
-# Concluding the caching
-
-I don't want to sweat it, this script is the first phase of this project. The next phase is sticking it into a Lambda function.
-
-
 ```javascript
 function getCache (redisClient, key) {
   return new Promise((resolve, reject) => {
@@ -63,4 +58,3 @@ module.exports = {
 }
 ```
 
-En garde
