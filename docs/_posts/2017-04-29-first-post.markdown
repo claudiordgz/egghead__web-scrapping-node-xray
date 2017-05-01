@@ -1,3 +1,8 @@
+---
+title: The OverClocked Remix Audio Player Backend
+published: true
+---
+
 # The OverClocked ReMix Audio Player
 
 What started as watching a tutorial on how to use X-Ray and Nightmare to scrap a website ended up being a project I've been wanting to try out for a while.
